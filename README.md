@@ -1,0 +1,1 @@
+A replica of Facebook's login page using HTML for structure and CSS for styling. Incorporate form elements for username/email and password inputs, along with a 'Log In' button. Use CSS to replicate Facebook's color scheme, fonts, and layout to closely mimic the original login experience.
